@@ -37,7 +37,7 @@
 
     ## Warning: Removed 3066 rows containing missing values (geom_point).
 
-![](Visual_R_files/figure-markdown_strict/unnamed-chunk-2-1.png)
+![alt text](Visual_R_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
     #Impressions
 
